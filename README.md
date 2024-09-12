@@ -5,7 +5,7 @@
 * [Instalation](#instalation)
 
 ## General info
-This Menu add to GW2 Radial a new wheel with the Options to put the Jade Bot Personal Waypoint, Start Fishing, Summon Skiff, Scan for Rift, Skyscale launch.\
+This Menu add to GW2 Radial a new wheel with the Options to put the Jade Bot Personal Waypoint, Start Fishing, Summon Skiff, Scan for Rift, Skyscale launch and Summon Conjured Doorway.\
 ![BEOD Menu](/readme_images/mastery_skills_wheel.png)
 
 ## Prerequisites
